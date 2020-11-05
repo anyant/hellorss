@@ -15,12 +15,16 @@ https://github.com/anyant/rssant
 
 1. 输入任意博客地址，会自动查找订阅源，也支持批量输入
 2. 在文章列表页面， **Ctrl + 点击** 可以直接打开文章内容
+3. 阅读底下的文章时，说明上面的已看过，会自动标为已读(置灰)
 
 
 ### 如何寻找订阅源？
 
 RSSHub (蚁阅可以正常访问)  
 https://rsshub.app/
+
+Feed43  
+https://feed43.com/
 
 中文独立博客列表  
 https://github.com/timqian/chinese-independent-blogs
