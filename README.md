@@ -21,7 +21,7 @@ https://github.com/anyant/rssant
 ### 如何寻找订阅源？
 
 RSSHub (蚁阅可以正常访问)  
-https://rsshub.app/
+https://docs.rsshub.app/
 
 Feed43  
 https://feed43.com/
@@ -54,17 +54,34 @@ https://www.solidot.org/index.rss
 小众软件  
 https://feeds.appinn.com/appinns/
 
-阮一峰的网络日志  
-https://www.ruanyifeng.com/blog/atom.xml
+知乎每日精选  
+https://www.zhihu.com/rss
+
+机核  
+https://www.gcores.com/rss
+
+Hacker News  
+https://rsshub.app/hackernews/best/story
+
+GitHub Trending - Python  
+https://rsshub.app/github/trending/weekly/python
+
+**杂志**
+
+月光博客  
+https://www.williamlong.info/rss.xml
+
+扯氮集  
+http://weiwuhui.com/feed
+
+左岸读书  
+https://www.zreading.cn/feed
 
 HelloGitHub月刊  
 https://hellogithub.com/rss
 
-数据库内核月报  
-https://rsshub.app/aliyun/database_month
-
-GitHub Trending - Python  
-https://rsshub.app/github/trending/weekly/python
+阮一峰的网络日志  
+https://www.ruanyifeng.com/blog/atom.xml
 
 **播客**
 
@@ -90,9 +107,6 @@ https://martinfowler.com/feed.atom
 
 Armin Ronacher - Flask作者  
 https://lucumr.pocoo.org/feed.atom
-
-财新博客 - 张五常  
-https://rsshub.app/caixin/blog/zhangwuchang
 
 AndrewChen 著名投资人  
 https://andrewchen.co/feed/
@@ -131,6 +145,12 @@ Graduate Descent
 http://timvieira.github.io/blog/atom.xml
 
 **其他**
+
+什么值得买  
+http://feed.smzdm.com/
+
+豆瓣最受欢迎的书评  
+https://www.douban.com/feed/review/book
 
 安全技术精粹  
 https://paper.seebug.org/rss/
