@@ -23,8 +23,9 @@ https://github.com/anyant/rssant
 RSSHub (蚁阅可以正常访问)  
 https://docs.rsshub.app/
 
-Feed43  
-https://feed43.com/
+任意网页生成RSS  
+https://rss.app/  
+https://feed43.com/  
 
 中文独立博客列表  
 https://github.com/timqian/chinese-independent-blogs
